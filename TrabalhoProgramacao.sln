@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Imobiliaria Retangular", "..\01 - Imobiliaria Retangular\01 - Imobiliaria Retangular.csproj", "{C790EFCC-32A2-41B1-9F29-32327B6102DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Ferraduras", "..\02 - Ferraduras\02 - Ferraduras.csproj", "{5A13FD91-8A67-4E5A-86CA-272333866CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C790EFCC-32A2-41B1-9F29-32327B6102DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C790EFCC-32A2-41B1-9F29-32327B6102DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C790EFCC-32A2-41B1-9F29-32327B6102DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C790EFCC-32A2-41B1-9F29-32327B6102DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A13FD91-8A67-4E5A-86CA-272333866CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A13FD91-8A67-4E5A-86CA-272333866CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A13FD91-8A67-4E5A-86CA-272333866CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A13FD91-8A67-4E5A-86CA-272333866CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
