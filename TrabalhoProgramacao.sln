@@ -77,6 +77,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39 - Multas Joao", "39 - Mu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35 - Losango", "35 - Losango\35 - Losango.csproj", "{D9B3DC0F-5447-4B45-8A2F-7135CFEC621E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - Distancia Cartesiana", "10 - Distancia Cartesiana\10 - Distancia Cartesiana.csproj", "{69BE69C1-A190-4C4F-BA79-C01D210BF249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40 - Teorema de Pitagoras", "40 - Teorema de Pitagoras\40 - Teorema de Pitagoras.csproj", "{D0F1E7F9-324E-448B-AC72-26B56742E252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - 3 Amigos", "15 - 3 Amigos\15 - 3 Amigos.csproj", "{99E70697-A157-4A57-9F78-8627A10411DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,8 +237,23 @@ Global
 		{D9B3DC0F-5447-4B45-8A2F-7135CFEC621E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B3DC0F-5447-4B45-8A2F-7135CFEC621E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B3DC0F-5447-4B45-8A2F-7135CFEC621E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BE69C1-A190-4C4F-BA79-C01D210BF249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BE69C1-A190-4C4F-BA79-C01D210BF249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BE69C1-A190-4C4F-BA79-C01D210BF249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BE69C1-A190-4C4F-BA79-C01D210BF249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F1E7F9-324E-448B-AC72-26B56742E252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F1E7F9-324E-448B-AC72-26B56742E252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F1E7F9-324E-448B-AC72-26B56742E252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F1E7F9-324E-448B-AC72-26B56742E252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E70697-A157-4A57-9F78-8627A10411DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E70697-A157-4A57-9F78-8627A10411DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E70697-A157-4A57-9F78-8627A10411DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E70697-A157-4A57-9F78-8627A10411DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E823B4-24AD-4A83-B62B-96BB64B4AF91}
 	EndGlobalSection
 EndGlobal
