@@ -9,7 +9,7 @@ meses = diassobra / 30;
 dias = diassobra % 30;
 
 
-Console.WriteLine($"A empres está sem acidente a {anos} anos {meses} meses {dias} dias");
+Console.WriteLine($"A empresa está sem acidente a {anos} anos {meses} meses {dias} dias");
 
 
 
