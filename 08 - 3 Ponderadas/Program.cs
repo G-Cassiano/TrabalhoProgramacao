@@ -7,6 +7,6 @@ n2 = Convert.ToDecimal(Console.ReadLine());
 Console.WriteLine("Digite a nota nota (Peso 3): ");
 n3 = Convert.ToDecimal(Console.ReadLine());
 
-total = (n1) + (n2 * 2) + (n3 * 3) / 6;
+total = (n1 + n2 * 2 + n3 * 3) / (1 + 2 + 3);
 
-Console.WriteLine($"A sua nota com os pesos aplicado é {total}");
+Console.WriteLine($"A sua nota com os pesos aplicado é {total:F2}");
