@@ -8,4 +8,4 @@ VGasolina = Convert.ToDecimal(Console.ReadLine());
 
 Litros = Reais / VGasolina;
 
-Console.WriteLine($"Você conseguiu abastecer {Litros} litros.");
+Console.WriteLine($"Você conseguiu abastecer {Litros:F2} litros.");
